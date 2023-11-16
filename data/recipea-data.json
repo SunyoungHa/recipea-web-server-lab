@@ -14,28 +14,26 @@
     ]
   },
   {
-    "name": "Spaghetti with Red Sauce",
-    "cookingMethod": "stove-top boil",
+    "name": "Fried Chicken",
+    "cookingMethod": "deep fry",
     "ingredients": [
-      "spaghetti",
-      "tomato sauce",
-      "tomato paste",
-      "ground beef",
+      "chicken",
+      "flour",
       "salt",
       "pepper",
       "garlic",
-      "onion",
-      "parmesan cheese"
+      "oil"
     ]
-  },
-  {
-    "name": "Fried Chicken",
-    "cookingMethod": "deep fry",
-    "ingredients": ["chicken", "flour", "salt", "pepper", "garlic", "oil"]
   },
   {
     "name": "Baked Chicken",
     "cookingMethod": "oven bake",
-    "ingredients": ["chicken", "salt", "pepper", "garlic", "oil"]
+    "ingredients": [
+      "chicken",
+      "salt",
+      "pepper",
+      "garlic",
+      "oil"
+    ]
   }
 ]
